@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd /home/user/Desktop/download_warcs/
 #gets the urls out of the warc file downloaded from common crawl ec2 instance
 get_urls()
 {
